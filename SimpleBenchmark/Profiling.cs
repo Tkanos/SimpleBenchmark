@@ -5,11 +5,14 @@ using System.Reflection;
 
 namespace SimpleBenchmark
 {
+    /// <summary>
+    ///  Done thanks of the excellent article of Matt Warren <see cref="https://mattwarrendotorg.wordpress.com/category/performance/"/>
+    /// </summary>
     public class Profiling
     {
         /// <summary>
         /// Initializes a new instance of the <see cref="Profiling" /> class.
-        /// Done thanks of the excellent article of Matt Warren <see cref="https://mattwarrendotorg.wordpress.com/category/performance/"/>
+
         /// </summary>
         public Profiling()
         {
